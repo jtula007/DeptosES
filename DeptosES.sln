@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptosES.EntidadesDeNegocio", "DeptosES.EntidadesDeNegocio\DeptosES.EntidadesDeNegocio.csproj", "{E6C26FB6-64D6-4DB6-B30B-E70DED54C7A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeptosES.EntidadesDeNegocio", "DeptosES.EntidadesDeNegocio\DeptosES.EntidadesDeNegocio.csproj", "{E6C26FB6-64D6-4DB6-B30B-E70DED54C7A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptosES.AccesoADatos", "DeptosES.AccesoADatos\DeptosES.AccesoADatos.csproj", "{80F4DBA1-5D7E-440C-8CE7-C09F39D5A856}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeptosES.AccesoADatos", "DeptosES.AccesoADatos\DeptosES.AccesoADatos.csproj", "{80F4DBA1-5D7E-440C-8CE7-C09F39D5A856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptosES.LogicaDeNegocio", "DeptosES.LogicaDeNegocio\DeptosES.LogicaDeNegocio.csproj", "{4C02F1FE-26E4-4422-BE3C-EE16F75E2DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeptosES.LogicaDeNegocio", "DeptosES.LogicaDeNegocio\DeptosES.LogicaDeNegocio.csproj", "{4C02F1FE-26E4-4422-BE3C-EE16F75E2DF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptosES.PruebasUnitarias", "DeptosES.PruebasUnitarias\DeptosES.PruebasUnitarias.csproj", "{5AD6CF1F-072D-4268-B636-04BE01EB115B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeptosES.WebAPI", "DeptosES.WebAPI\DeptosES.WebAPI.csproj", "{7E64DBEA-D143-497E-9929-AF2A4F87A97A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptosES.WebAPI", "DeptosES.WebAPI\DeptosES.WebAPI.csproj", "{7E64DBEA-D143-497E-9929-AF2A4F87A97A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptosES.PruebasUnitarias", "DeptosES.PruebasUnitarias\DeptosES.PruebasUnitarias.csproj", "{55B7A5B5-4996-404E-B2C7-8FC0D26B9D01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +31,14 @@ Global
 		{4C02F1FE-26E4-4422-BE3C-EE16F75E2DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C02F1FE-26E4-4422-BE3C-EE16F75E2DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C02F1FE-26E4-4422-BE3C-EE16F75E2DF2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5AD6CF1F-072D-4268-B636-04BE01EB115B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5AD6CF1F-072D-4268-B636-04BE01EB115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5AD6CF1F-072D-4268-B636-04BE01EB115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5AD6CF1F-072D-4268-B636-04BE01EB115B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7E64DBEA-D143-497E-9929-AF2A4F87A97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7E64DBEA-D143-497E-9929-AF2A4F87A97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E64DBEA-D143-497E-9929-AF2A4F87A97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E64DBEA-D143-497E-9929-AF2A4F87A97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B7A5B5-4996-404E-B2C7-8FC0D26B9D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B7A5B5-4996-404E-B2C7-8FC0D26B9D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B7A5B5-4996-404E-B2C7-8FC0D26B9D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B7A5B5-4996-404E-B2C7-8FC0D26B9D01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
